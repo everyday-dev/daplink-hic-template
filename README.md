@@ -1,7 +1,2 @@
-# DAPLink HIC Template
-[![CC by SA](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
-
-## Introduction
-Template for creating new DAPLink HIC modules to be used with the DAPLink HDK board
-
-![3d photo of the daplink hic template module](img/daplink_template.png)
+# We've moved. 
+In an effort to truly own and be in full control of our clients and personal information, source code, and documentation we've moved to a self-hosted Git server. You can find this project here: [git.everydaydev.io](https://git.everydaydev.io/opensource/daplink-hic-template)
